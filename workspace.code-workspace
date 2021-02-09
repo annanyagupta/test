@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\final-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final-main"
+	}
+}
